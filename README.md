@@ -6,6 +6,7 @@ Leetcode and GeeksForGeeks
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kartikshandilya191-cloud/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartikshandilya191-cloud/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -15,4 +16,8 @@ Leetcode and GeeksForGeeks
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartikshandilya191-cloud/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kartikshandilya191-cloud/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
